@@ -1,6 +1,7 @@
 #write your code here
 
 def countdown(number)
+  seconds_length = 1
   
   while number >= 0
   
@@ -12,6 +13,8 @@ def countdown(number)
       sleep seconds
       
     end
+    
+    countdown_with_sleep(seconds_length)
     
   end
   
