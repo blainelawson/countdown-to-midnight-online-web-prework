@@ -1,5 +1,10 @@
 #write your code here
-
+  def countdown_with_sleep(seconds)
+      
+    sleep seconds
+      
+  end
+    
 def countdown(number)
   seconds_length = 1
   
@@ -7,12 +12,6 @@ def countdown(number)
   
     puts "#{number} SECOND(S)!"
     number -= 1
-    
-    def countdown_with_sleep(seconds)
-      
-      sleep seconds
-      
-    end
     
     countdown_with_sleep(seconds_length)
     
