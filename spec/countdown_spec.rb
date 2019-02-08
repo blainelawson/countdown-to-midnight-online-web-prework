@@ -24,4 +24,3 @@ describe 'LOOPS' do
 
 end
 
-countdown
