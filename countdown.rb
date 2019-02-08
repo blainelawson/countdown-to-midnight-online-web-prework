@@ -7,16 +7,17 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
     number -= 1
     
-  def countdown_with_sleep(seconds)
+    def countdown_with_sleep(seconds)
       
-    sleep seconds
+      sleep seconds
       
-  end
+    end
     
     countdown_with_sleep(seconds)
     
   end
   
+  "HAPPY NEW YEAR!"
+  
 end
 
-  "HAPPY NEW YEAR!"
