@@ -13,3 +13,4 @@ def countdown(number)
   
 end
 
+countdown(10)
