@@ -1,5 +1,5 @@
 #write your code here
-
+seconds = 1
 def countdown(number)
   
   while number >= 0
