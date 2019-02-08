@@ -13,7 +13,7 @@ def countdown(number)
       
   end
     
-    countdown_with_sleep(seconds_length)
+    countdown_with_sleep(seconds)
     
   end
   
